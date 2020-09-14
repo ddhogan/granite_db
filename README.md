@@ -6,6 +6,8 @@ This project is intended to enable residents of Nashua, NH to view available pub
 ## Prerequisites
 * Node (developed with v12.2.0)
 * An API Key for AirTable in your environment variables
+  * I have it named as `REACT_APP_API_KEY`. The name must begin with `REACT_APP_` because this app is not yet ejected (see https://create-react-app.dev/docs/adding-custom-environment-variables/ for more information)
+  * This variable can be placed in a `.env` file in the root directory of the project, like `REACT_APP_API_KEY=your-key-with-no-quotes`
 
 ## Running locally in development mode
 * `npm install`
