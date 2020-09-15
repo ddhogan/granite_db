@@ -1,7 +1,8 @@
 # Granite.db Public Resource Browser
 
 ## Description
-This project is intended to enable residents of Nashua, NH to view available public resources for various kinds of assistance and information, and originated from the National Day of Civic Hacking 2020.
+This project is intended to enable residents of Nashua, NH to view available public resources for various kinds of assistance and information, and originated from the National Day of Civic Hacking 2020.  
+The goal, and additional information, is described in the "Nashua Emergency Management Project" block of this agenda: [https://www.codeforboston.org/ndoch/](https://www.codeforboston.org/ndoch/).
 
 ## Prerequisites
 * Node (developed with v12.2.0)
